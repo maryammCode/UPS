@@ -1,0 +1,2 @@
+bonjour
+<?php echo('hey'); ?>
